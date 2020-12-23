@@ -1,2 +1,2 @@
 # contact-book
-A simple contact book build with java
+A contact book build with java
